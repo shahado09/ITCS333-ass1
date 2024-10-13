@@ -6,15 +6,15 @@ Shahad
 
 ## Overview
 
-The Sunshine Kindergarten website is a simple and engaging single-page application designed to provide information about our kindergarten, including schedules, announcements, resources, and teacher information
+The Sunshine Kindergarten website is a simple and engaging single-page application designed to provide information about kindergarten, including schedules, announcements, resources, and teacher information
 
 ## Features
 
-- **Welcome Section**: A warm welcome message to introduce Sunshine Kindergarten.
+- **Welcome Section**: A welcome message to introduce Sunshine Kindergarten.
 - **Schedules**: A weekly schedule of activities for the children.
 - **Class Photo Gallery**: A section showcasing images of the children engaged in various activities.
 - **Announcements & Resources**: Important announcements for parents and useful resources.
-- **Teacher Information**: Information about our dedicated teachers and their roles.
+- **Teacher Information**: Information about the teachers and their roles.
 
 ## Technologies Used
 
