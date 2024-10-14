@@ -1,8 +1,8 @@
 # Sunshine Kindergarten Website
 
 ## By:
-Narjes Jaffar Hussain - 202007987
-Shahad Mohammad - 202102876
+- Narjes Jaffar Hussain - 202007987
+- Shahad Mohammad - 202102876
 
 ## Overview
 
